@@ -1,4 +1,5 @@
 #!/bin/sh
 slstatus &
-picom --experimental-backends -b
-feh --bg-fill ~/.wallpaper/wallhaven-qdp6xq.png
+picom -b
+feh --bg-fill ~/.wallpaper/1.jpg
+fcitx5 &
